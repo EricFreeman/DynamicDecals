@@ -1,12 +1,6 @@
 ﻿using UnityEngine;
-using UnityEngine.VR;
-using UnityEngine.Rendering;
-
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-
-using LlockhamIndustries.ExtensionMethods;
 
 #if UNITY_EDITOR
 using UnityEditor;
@@ -759,7 +753,6 @@ namespace LlockhamIndustries.Decals
                 {
                     debug += "\r\nVirtualReality : " + UnityEngine.XR.XRSettings.isDeviceActive + "\r\n";
                     debug += "VR API : " + UnityEngine.XR.XRSettings.loadedDeviceName + "\r\n";
-                    debug += "VR device : " + UnityEngine.XR.XRDevice.model + "\r\n";
 
                     #if UNITY_EDITOR
                     debug += "Stereo rendering path : " + (System.Settings.SinglePassVR? "SinglePass" : "MultiPass") + "\r\n";

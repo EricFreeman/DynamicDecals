@@ -1,11 +1,8 @@
 ﻿using UnityEngine;
-using UnityEngine.VR;
 using UnityEditor;
-using System.Collections;
 using System.Collections.Generic;
 
 using UnityEditorInternal;
-using LlockhamIndustries.ExtensionMethods;
 
 namespace LlockhamIndustries.Decals
 {
