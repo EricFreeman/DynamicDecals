@@ -1,5 +1,5 @@
 # Dynamic Decals
-==========
+
 [Unity Forums](https://forum.unity.com/threads/released-dynamic-decals.450820/)
 
 This solution was developed by Llockham-Industries and originally sold in the Unity Asset Store. Dynamic Decals was deprecated when the new Unity render pipeline was launched, but the original author [gave his permission](https://forum.unity.com/threads/released-dynamic-decals.450820/page-17#post-6814172) to open source the project as it still works for Unity's Built-in Render Pipeline.
