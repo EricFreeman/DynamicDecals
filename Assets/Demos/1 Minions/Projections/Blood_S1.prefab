@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000010004476130}
+  m_IsPrefabParent: 1
+--- !u!1 &1000010004476130
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4000010217631938}
+  - component: {fileID: 114868209266656850}
+  - component: {fileID: 114275747156484742}
+  - component: {fileID: 114850143765968992}
+  m_Layer: 0
+  m_Name: Blood_S1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000010217631938
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010004476130}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.6, y: 0.6, z: 0.6}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114275747156484742
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010004476130}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da4e20093490099439d506563fdccad7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minSize: 0.2
+  maxSize: 1.2
+--- !u!114 &114850143765968992
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010004476130}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1998db89cdc03074aa0689a5a00cb639, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 1
+  method: 0
+  wrapMode: 1
+  fade:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  fadeLength: 0.2
+  updateRate: 0.05
+--- !u!114 &114868209266656850
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010004476130}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ba303429bf6dcd489303c045ead295f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projection: {fileID: 11400000, guid: 06273f0b7be74844191a85b98d9a67e2, type: 2}
+  properties:
+  - name: Albedo
+    nameID: 10
+    type: 0
+    color: {r: 0.1397059, g: 0, b: 0, a: 1}
+    value: 0
+    enabled: 0
+  - name: Emission
+    nameID: 81
+    type: 2
+    color: {r: 0, g: 0, b: 0, a: 1}
+    value: 1
+    enabled: 0
+  tiling: {x: 0.125, y: 0.125}
+  offset: {x: 0.125, y: 0.875}
+  maskMethod: 0
+  masks: 01000101
+  _TilingOffset: 184
+  _MaskBase: 185
+  _MaskLayers: 186
+  instanceID: -947878

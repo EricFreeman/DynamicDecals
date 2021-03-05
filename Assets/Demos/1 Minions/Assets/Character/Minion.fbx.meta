@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 40771aee36907ae4fa64e911f9078099
+timeCreated: 1501196997
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_L
+    100002: Arm_R
+    100004: Armature
+    100006: Clavicle_L
+    100008: Clavicle_R
+    100010: Head
+    100012: Hips
+    100014: Jaw
+    100016: Leg_L
+    100018: Leg_R
+    100020: Minion
+    100022: //RootNode
+    100024: Neck
+    100026: Root
+    100028: Torso
+    100030: M_Minion
+    100032: R_Minion
+    400000: Arm_L
+    400002: Arm_R
+    400004: Armature
+    400006: Clavicle_L
+    400008: Clavicle_R
+    400010: Head
+    400012: Hips
+    400014: Jaw
+    400016: Leg_L
+    400018: Leg_R
+    400020: Minion
+    400022: //RootNode
+    400024: Neck
+    400026: Root
+    400028: Torso
+    400030: M_Minion
+    400032: R_Minion
+    4300000: Minion
+    4300002: M_Minion
+    7400000: Idle
+    7400002: Run
+    7400004: Run_Forward
+    7400006: Run_Stationary
+    7400008: Armature|Idle
+    7400010: Armature|Run_Forward
+    7400012: Armature|Run_Stationary
+    7400014: Armature|Run
+    7400016: R_Minion|Run_Forward
+    7400018: R_Minion|Run_Stationary
+    7400020: R_Minion|Idle
+    7400022: R_Minion|Mosh
+    9500000: //RootNode
+    13700000: Minion
+    13700002: M_Minion
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: R_Minion|Run_Forward
+      takeName: R_Minion|Run_Forward
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: M_Minion
+        weight: 1
+      - path: R_Minion
+        weight: 1
+      - path: R_Minion/Root
+        weight: 1
+      - path: R_Minion/Root/Hips
+        weight: 1
+      - path: R_Minion/Root/Hips/Leg_L
+        weight: 1
+      - path: R_Minion/Root/Hips/Leg_R
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Clavicle_L
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Clavicle_L/Arm_L
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Clavicle_R
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Clavicle_R/Arm_R
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Neck
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Neck/Head
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Neck/Head/Jaw
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: R_Minion|Run_Stationary
+      takeName: R_Minion|Run_Stationary
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: M_Minion
+        weight: 1
+      - path: R_Minion
+        weight: 1
+      - path: R_Minion/Root
+        weight: 1
+      - path: R_Minion/Root/Hips
+        weight: 1
+      - path: R_Minion/Root/Hips/Leg_L
+        weight: 1
+      - path: R_Minion/Root/Hips/Leg_R
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Clavicle_L
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Clavicle_L/Arm_L
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Clavicle_R
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Clavicle_R/Arm_R
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Neck
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Neck/Head
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Neck/Head/Jaw
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: R_Minion|Idle
+      takeName: R_Minion|Idle
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: M_Minion
+        weight: 1
+      - path: R_Minion
+        weight: 1
+      - path: R_Minion/Root
+        weight: 1
+      - path: R_Minion/Root/Hips
+        weight: 1
+      - path: R_Minion/Root/Hips/Leg_L
+        weight: 1
+      - path: R_Minion/Root/Hips/Leg_R
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Clavicle_L
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Clavicle_L/Arm_L
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Clavicle_R
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Clavicle_R/Arm_R
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Neck
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Neck/Head
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Neck/Head/Jaw
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: R_Minion|Mosh
+      takeName: R_Minion|Mosh
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: M_Minion
+        weight: 1
+      - path: R_Minion
+        weight: 1
+      - path: R_Minion/Root
+        weight: 1
+      - path: R_Minion/Root/Hips
+        weight: 1
+      - path: R_Minion/Root/Hips/Leg_L
+        weight: 1
+      - path: R_Minion/Root/Hips/Leg_R
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Clavicle_L
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Clavicle_L/Arm_L
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Clavicle_R
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Clavicle_R/Arm_R
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Neck
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Neck/Head
+        weight: 1
+      - path: R_Minion/Root/Hips/Torso/Neck/Head/Jaw
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

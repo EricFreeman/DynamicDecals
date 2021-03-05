@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 1bd1e450e484b054c8c72f10e48720a5
+timeCreated: 1502516004
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: M_Chunk_01
+    100002: M_Chunk_02
+    100004: M_Chunk_03
+    100006: M_Chunk_04
+    100008: M_Chunk_05
+    100010: M_Chunk_06
+    100012: M_Chunk_07
+    100014: M_Chunk_08
+    100016: M_Chunk_09
+    100018: M_Chunk_10
+    100020: M_Chunk_11
+    100022: M_Chunk_12
+    100024: M_Chunk_13
+    100026: M_Chunk_14
+    100028: //RootNode
+    400000: M_Chunk_01
+    400002: M_Chunk_02
+    400004: M_Chunk_03
+    400006: M_Chunk_04
+    400008: M_Chunk_05
+    400010: M_Chunk_06
+    400012: M_Chunk_07
+    400014: M_Chunk_08
+    400016: M_Chunk_09
+    400018: M_Chunk_10
+    400020: M_Chunk_11
+    400022: M_Chunk_12
+    400024: M_Chunk_13
+    400026: M_Chunk_14
+    400028: //RootNode
+    2300000: M_Chunk_01
+    2300002: M_Chunk_02
+    2300004: M_Chunk_03
+    2300006: M_Chunk_04
+    2300008: M_Chunk_05
+    2300010: M_Chunk_06
+    2300012: M_Chunk_07
+    2300014: M_Chunk_08
+    2300016: M_Chunk_09
+    2300018: M_Chunk_10
+    2300020: M_Chunk_11
+    2300022: M_Chunk_12
+    2300024: M_Chunk_13
+    2300026: M_Chunk_14
+    3300000: M_Chunk_01
+    3300002: M_Chunk_02
+    3300004: M_Chunk_03
+    3300006: M_Chunk_04
+    3300008: M_Chunk_05
+    3300010: M_Chunk_06
+    3300012: M_Chunk_07
+    3300014: M_Chunk_08
+    3300016: M_Chunk_09
+    3300018: M_Chunk_10
+    3300020: M_Chunk_11
+    3300022: M_Chunk_12
+    3300024: M_Chunk_13
+    3300026: M_Chunk_14
+    4300000: M_Chunk_13
+    4300002: M_Chunk_09
+    4300004: M_Chunk_11
+    4300006: M_Chunk_14
+    4300008: M_Chunk_10
+    4300010: M_Chunk_08
+    4300012: M_Chunk_03
+    4300014: M_Chunk_04
+    4300016: M_Chunk_07
+    4300018: M_Chunk_02
+    4300020: M_Chunk_05
+    4300022: M_Chunk_01
+    4300024: M_Chunk_06
+    4300026: M_Chunk_12
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

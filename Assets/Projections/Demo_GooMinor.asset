@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf5f969f960bef8449fee2204a37e5a3, type: 3}
+  m_Name: Demo_GooMinor
+  m_EditorClassIdentifier: 
+  type: 0
+  instanced: 1
+  forceForward: 1
+  priority: 2
+  transparencyType: 0
+  cutoff: 0.2
+  tiling: {x: 0, y: 0}
+  offset: {x: 0, y: 0}
+  maskMethod: 0
+  masks: 00000000
+  projectionLimit: 180
+  _Cutoff: 5
+  _TilingOffset: 194
+  _MaskBase: 195
+  _MaskLayers: 196
+  albedo:
+    texture: {fileID: 2800000, guid: ead84f65253041048861cfbad00e770e, type: 3}
+    color: {r: 0, g: 0, b: 0, a: 1}
+    _MainTex: 1
+    _Color: 10
+  metallic:
+    texture: {fileID: 0}
+    metallicity: 0.8
+    glossiness: 0.1
+    _MetallicGlossMap: 198
+    _Metallic: 199
+    _Glossiness: 200
+  normal:
+    texture: {fileID: 0}
+    strength: 1
+    _BumpMap: 6
+    _BumpScale: 201
+  emissive:
+    texture: {fileID: 0}
+    color: {r: 0, g: 0, b: 0, a: 1}
+    intensity: 1
+    _EmissionMap: 202
+    _EmissionColor: 81

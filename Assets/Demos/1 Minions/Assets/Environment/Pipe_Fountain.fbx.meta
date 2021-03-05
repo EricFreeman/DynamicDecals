@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 7a7b2c8e2902d744284d970abf37f0c3
+timeCreated: 1502421536
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube.001
+    100002: Cube.002
+    100004: Fountain.001
+    100006: M_Minion
+    100008: Pipe_Corner_L
+    100010: Pipe_Corner_R
+    100012: //RootNode
+    100014: Pipe_Fountain
+    100016: Pipe_Straight
+    100018: Plane
+    100020: Plane.002
+    100022: Plane.003
+    100024: Plane.004
+    100026: Plane.005
+    100028: Press
+    100030: Press Mount
+    100032: Wall_Alone
+    100034: Wall_Alone.001
+    100036: Wall_Cap
+    100038: Wall_Corner
+    100040: Wall_Corner_B
+    100042: Wall_Length
+    100044: Wall_Length_B
+    400000: Cube.001
+    400002: Cube.002
+    400004: Fountain.001
+    400006: M_Minion
+    400008: Pipe_Corner_L
+    400010: Pipe_Corner_R
+    400012: Pipe_Fountain
+    400014: //RootNode
+    400016: Pipe_Straight
+    400018: Plane
+    400020: Plane.002
+    400022: Plane.003
+    400024: Plane.004
+    400026: Plane.005
+    400028: Press
+    400030: Press Mount
+    400032: Wall_Alone
+    400034: Wall_Alone.001
+    400036: Wall_Cap
+    400038: Wall_Corner
+    400040: Wall_Corner_B
+    400042: Wall_Length
+    400044: Wall_Length_B
+    2300000: Cube.001
+    2300002: Cube.002
+    2300004: Fountain.001
+    2300006: M_Minion
+    2300008: Pipe_Corner_L
+    2300010: Pipe_Corner_R
+    2300012: Pipe_Fountain
+    2300014: Pipe_Straight
+    2300016: Plane
+    2300018: Plane.002
+    2300020: Plane.003
+    2300022: Plane.004
+    2300024: Plane.005
+    2300026: Press
+    2300028: Press Mount
+    2300030: Wall_Alone
+    2300032: Wall_Alone.001
+    2300034: Wall_Cap
+    2300036: Wall_Corner
+    2300038: Wall_Corner_B
+    2300040: Wall_Length
+    2300042: Wall_Length_B
+    2300044: //RootNode
+    3300000: Cube.001
+    3300002: Cube.002
+    3300004: Fountain.001
+    3300006: M_Minion
+    3300008: Pipe_Corner_L
+    3300010: Pipe_Corner_R
+    3300012: Pipe_Fountain
+    3300014: Pipe_Straight
+    3300016: Plane
+    3300018: Plane.002
+    3300020: Plane.003
+    3300022: Plane.004
+    3300024: Plane.005
+    3300026: Press
+    3300028: Press Mount
+    3300030: Wall_Alone
+    3300032: Wall_Alone.001
+    3300034: Wall_Cap
+    3300036: Wall_Corner
+    3300038: Wall_Corner_B
+    3300040: Wall_Length
+    3300042: Wall_Length_B
+    3300044: //RootNode
+    4300000: Pipe_Corner_L
+    4300002: Pipe_Straight
+    4300004: Pipe_Corner_R
+    4300006: Pipe_Fountain
+    4300008: Fountain.001
+    4300010: Wall_Corner_B
+    4300012: Wall_Length_B
+    4300014: Wall_Cap
+    4300016: Wall_Alone
+    4300018: Wall_Length
+    4300020: Wall_Corner
+    4300022: Plane.005
+    4300024: Plane.004
+    4300026: Plane.003
+    4300028: Plane.002
+    4300030: Plane
+    4300032: Press
+    4300034: Press Mount
+    4300036: Wall_Alone.001
+    4300038: M_Minion
+    4300040: Cube.002
+    4300042: Cube.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

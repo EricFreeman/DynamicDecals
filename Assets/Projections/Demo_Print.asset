@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf5f969f960bef8449fee2204a37e5a3, type: 3}
+  m_Name: Demo_Print
+  m_EditorClassIdentifier: 
+  type: 0
+  instanced: 1
+  forceForward: 1
+  priority: 10
+  transparencyType: 0
+  cutoff: 0.2
+  tiling: {x: 0, y: 0}
+  offset: {x: 0, y: 0}
+  maskMethod: 0
+  masks: 00000000
+  projectionLimit: 80
+  _Cutoff: 5
+  _TilingOffset: 282
+  _MaskBase: 283
+  _MaskLayers: 284
+  albedo:
+    texture: {fileID: 2800000, guid: ead84f65253041048861cfbad00e770e, type: 3}
+    color: {r: 0.8602941, g: 0.5161764, b: 0, a: 1}
+    _MainTex: 1
+    _Color: 10
+  metallic:
+    texture: {fileID: 0}
+    metallicity: 0.9
+    glossiness: 0.6
+    _MetallicGlossMap: 238
+    _Metallic: 247
+    _Glossiness: 244
+  normal:
+    texture: {fileID: 2800000, guid: b66c2383353dc7d46a137424b18f24ee, type: 3}
+    strength: 0.1
+    _BumpMap: 6
+    _BumpScale: 241
+  emissive:
+    texture: {fileID: 0}
+    color: {r: 0.6544118, g: 0, b: 0.20309323, a: 1}
+    intensity: 1
+    _EmissionMap: 237
+    _EmissionColor: 81

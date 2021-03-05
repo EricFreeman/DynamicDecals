@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ae1effa7f8ba6e4f9e4acbc9fa48c0d, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  pools:
+  - id: 0
+    title: Default
+    limits: 9001000020030000b004000040060000d007000060090000f00a0000800c0000100e0000a00f000030110000c012000050140000e015000070170000
+  - id: 1
+    title: Bloo Goo
+    limits: 9001000020030000b004000040060000d007000060090000f00a0000800c0000100e0000a00f000030110000c012000050140000e015000070170000
+  - id: 2
+    title: Orange Goo
+    limits: 9001000020030000b004000040060000d007000060090000f00a0000800c0000100e0000a00f000030110000c012000050140000e015000070170000
+  maskMethod: 2
+  layers:
+  - name: Layer 1
+    layers:
+      serializedVersion: 2
+      m_Bits: 0
+  - name: Layer 2
+    layers:
+      serializedVersion: 2
+      m_Bits: 0
+  - name: Layer 3
+    layers:
+      serializedVersion: 2
+      m_Bits: 0
+  - name: Layer 4
+    layers:
+      serializedVersion: 2
+      m_Bits: 0
+  passes:
+  - vector: {x: 0, y: 0, z: 0, w: 0}
+    layers:
+      serializedVersion: 2
+      m_Bits: 4294967295
+  replacement: 0
+  materials: []
+  materialQueues: 
+  singlepassVR: 0

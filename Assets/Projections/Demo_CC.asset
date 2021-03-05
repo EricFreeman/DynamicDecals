@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fd7a0342eaea6245aec8b08159b580e, type: 3}
+  m_Name: Demo_CC
+  m_EditorClassIdentifier: 
+  type: 0
+  instanced: 0
+  forceForward: 0
+  priority: 40
+  transparencyType: 0
+  cutoff: 0
+  tiling: {x: 0, y: 0}
+  offset: {x: 0, y: 0}
+  maskMethod: 0
+  masks: 00000000
+  projectionLimit: 180
+  _Cutoff: 5
+  _TilingOffset: 282
+  _MaskBase: 283
+  _MaskLayers: 284
+  albedo:
+    texture: {fileID: 0}
+    color: {r: 0.9645031, g: 0.74264705, b: 1, a: 1}
+    _MainTex: 1
+    _Color: 10
