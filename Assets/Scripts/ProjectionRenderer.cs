@@ -576,9 +576,9 @@ namespace LlockhamIndustries.Decals
         */
         public float CheckIntersecting(Vector3 Point)
         {
+            if (transform.lossyScale == Vector3.zero) return 0;
             Vector3 localPoint = transform.InverseTransformPoint(Point);
             return Mathf.Clamp01(2 * (0.5f - Mathf.Max(Mathf.Max(Mathf.Abs(localPoint.x), Mathf.Abs(localPoint.y)), Mathf.Abs(localPoint.z))));
-            
         }
 
         //Destroy
